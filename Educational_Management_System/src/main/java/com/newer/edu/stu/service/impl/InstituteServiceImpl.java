@@ -4,5 +4,4 @@ import com.newer.edu.stu.service.InstituteService;
 
 public class InstituteServiceImpl implements InstituteService {
 
-
 }
